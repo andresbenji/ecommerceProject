@@ -1,0 +1,88 @@
+[
+  {
+    "image": "images/mazda-rx7-sale.jpeg",
+    "title": "Mazda RX-7",
+    "year": "1996",
+    "color": "Black",
+    "mileage": "146,600 km"
+  },
+
+  {
+    "image": "images/lancer-evolution-tommi-makinen-sale.jpeg",
+    "title": "Mitsubishi Lancer Evolution",
+    "year": "2000",
+    "color": "Passion Red",
+    "mileage": "96,654 km"
+  },
+
+  {
+    "image": "images/lexus-lfa-sale-japan.jpeg",
+    "title": "Lexus LFA",
+    "year": "2011",
+    "color": "White",
+    "mileage": "8,500 km"
+  },
+  {
+    "image": "images/nissan-silvia-s15-sale.jpeg",
+    "title": "Nissan Silvia S15",
+    "year": "1999",
+    "color": "Blue",
+    "mileage": "87,071 km"
+  },
+  {
+    "image": "images/nissan-skyline-gtr-r34-v-spec-sale.jpeg",
+    "title": "Nissan Skyline GTR R34",
+    "year": "1999",
+    "color": "Athlete Silver",
+    "mileage": "47,343 km"
+  },
+  {
+    "image": "images/subaru-impreza-sale.jpeg",
+    "title": "Subaru Impreza",
+    "year": "1998",
+    "color": "World Rally Blue",
+    "mileage": "249,447 km"
+  },
+  {
+    "image": "images/subaru-impreza-sti-nbr-challenge-package-sale.jpeg",
+    "title": "Subaru Impreza STI",
+    "year": "2012",
+    "color": "Black",
+    "mileage": "48,878 km"
+  },
+  {
+    "image": "images/mazda-rx7-veilside-sale.jpeg",
+    "title": "Mazda RX-7 Veilside",
+    "year": "2001",
+    "color": "Veilside Fortune",
+    "mileage": "35,677 km"
+  },
+  {
+    "image": "images/honda-civic-type-r-sale.jpeg",
+    "title": "Honda Civic Type R ",
+    "year": "1999",
+    "color": "Championship White",
+    "mileage": "149,655 km"
+  },
+  {
+    "image": "images/nissan-skyline-gtr-r33-for-sale.jpeg",
+    "title": "Nissan Skyline GTR R33",
+    "year": "1998",
+    "color": "Active Red",
+    "mileage": "139,000 km"
+  },
+  {
+    "image": "images/toyota-supra-sale.jpeg",
+    "title": "Toyota Supra",
+    "year": "1995",
+    "color": "Bayside Blue",
+    "mileage": "138,135 km"
+  },
+  {
+    "image": "images/honda-integra-sale.jpeg",
+    "title": "Honda Integra Type R",
+    "year": "1996",
+    "color": "Championship White",
+    "mileage": "93,446 km"
+  }
+]
