@@ -417,6 +417,7 @@ label {
   display: inline-block;
   color: white;
   font-family: "Oswald", sans-serif;
+  padding-right: 30px;
 }
 
 input[type="submit"] {
