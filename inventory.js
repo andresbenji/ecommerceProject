@@ -12,6 +12,7 @@ http.onload = function () {
 
     for (let item of inventory) {
       output += `
+                <a href="getInTouch.html">
                 <div class="car">
                     <img src="${item.image}" alt="${item.image}">
                     <p class="title">${item.title}</p>
@@ -19,6 +20,7 @@ http.onload = function () {
                     <p class="color">${item.color}</p>
                     <p class="mileage">${item.mileage}</p>
                 </div>
+                </a>
                 `;
     }
 
