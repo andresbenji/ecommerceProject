@@ -266,13 +266,16 @@ body {
 }
 
 .brands {
-  /* margin: 60px; */
+  margin: 30px;
   padding: 40px;
   max-height: 110px;
   display: flex;
   justify-content: center;
   background-color: rgba(0, 0, 0, 0.7);
-  width: 100%;
+  /* width: 100%; */
+  min-width: 450px;
+  border-radius: 6%;
+  box-shadow: 0 8px 8px black;
 }
 
 .brands img {
@@ -462,12 +465,13 @@ input[type="submit"] {
   border: none;
   border-radius: 4px;
   cursor: pointer;
-
+  margin-top: 15px;
   font-family: "Oswald", sans-serif;
 }
 
 input[type="submit"]:hover {
-  background-color: black;
+  background-color: white;
+  color:black
 }
 
 @media screen and (max-width: 600px) {

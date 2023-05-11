@@ -2,7 +2,7 @@
 
 let i = 0;
 let images = [];
-let time = 2500;
+let time = 2100;
 
 images[0] = "images/mazda-logo-0.png";
 images[1] = "images/Nissan_logo.png";
